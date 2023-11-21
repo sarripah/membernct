@@ -1,0 +1,94 @@
+{
+    "result": [
+    {
+      "nama": "Taeyong",
+      "posisi": "Leader",
+      "tinggi": "175 cm",
+      "berat": "58 kg",
+      "tanggal_lahir" : "1 Juli 1995",
+      "zodiak": "Cancer",
+      "Foto": "https://berita.99.co/wp-content/uploads/2021/11/taeyong-nct-wowokerencom.jpg"
+    },
+    {
+      "nama": "Taeil",
+      "posisi": "Vokalis",
+      "tinggi": "171 cm",
+      "berat": "60 kg",
+      "tanggal_lahir" : "14 Juni 1994",
+      "zodiak": "Gemini",
+      "Foto": "https://berita.99.co/wp-content/uploads/2021/11/teail-detikcom.png"
+    },
+    {
+      "nama": "Johnny",
+      "posisi": "Rapper",
+      "tinggi": "184 cm",
+      "berat": "68 kg",
+      "tanggal_lahir" : "9 Februari 1995",
+      "zodiak": "Aquarius",
+      "Foto": "https://berita.99.co/wp-content/uploads/2021/11/johnny-nct-detikcom.jpeg"
+    },
+    {
+      "nama": "Yuta",
+      "posisi": "Vokalis",
+      "tinggi": "176 cm",
+      "berat": "60 kg",
+      "tanggal_lahir" : "26 Oktober 1995",
+      "zodiak": "Scorpio",
+      "Foto": "https://berita.99.co/wp-content/uploads/2021/11/johnny-nct-detikcom.jpeg"
+    },
+    {
+      "nama": "Kun",
+      "posisi": "Vokalis",
+      "tinggi": "176 cm",
+      "berat": "60 kg",
+      "tanggal_lahir" : "1 Januari 1996",
+      "zodiak": "Capricorn",
+      "Foto": "https://berita.99.co/wp-content/uploads/2021/11/kun-nct-pikiran-rakyatcom.jpg"
+    },
+    {
+      "nama": "Doyoung",
+      "posisi": "Vokalis",
+      "tinggi": "178 cm",
+      "berat": "60 kg",
+      "tanggal_lahir" : "1 Februari 1996",
+      "zodiak": "Aquarius",
+      "Foto": "https://berita.99.co/wp-content/uploads/2021/11/doyoung-nct-suaracom.jpg"
+    },
+    {
+      "nama": "Ten",
+      "posisi": "Dancer",
+      "tinggi": "170 cm",
+      "berat": "59 kg",
+      "tanggal_lahir" : "27 Februari 1996",
+      "zodiak": "Pisces",
+      "Foto": "https://berita.99.co/wp-content/uploads/2021/11/ten-nct-idntimescom.jpg"
+    },
+    {
+      "nama": "Jaehyun",
+      "posisi": "Vokalis",
+      "tinggi": "180 cm",
+      "berat": "63 kg",
+      "tanggal_lahir" : "14 Februari 1997",
+      "zodiak": "Aquarius",
+      "Foto": "https://berita.99.co/wp-content/uploads/2021/11/jaehyun-nct-gridid.jpeg"
+    },
+    {
+      "nama": "Winwin",
+      "posisi": "Dancer",
+      "tinggi": "178 cm",
+      "berat": "60 kg",
+      "tanggal_lahir" : "28 Oktober 1997",
+      "zodiak": "Scorpio",
+      "Foto": "https://berita.99.co/wp-content/uploads/2021/11/winwin-kepopercom.jpg"
+    },
+    {
+      "nama": "Jungwoo",
+      "posisi": "Vokalis",
+      "tinggi": "180 cm",
+      "berat": "58 kg",
+      "tanggal_lahir" : "19 Februari 1998",
+      "zodiak": "Pisces",
+      "Foto": "https://berita.99.co/wp-content/uploads/2021/11/jungwoo-nct-idntimescom.jpg"
+    }
+   ]
+  }
